@@ -2,7 +2,7 @@
   "name": "effectserver-client",
   "description": "",
   "author": "Juho Vepsalainen <bebraw@gmail.com>",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "./index.js",
   "dependencies": {
     "animation": "~0.1.3",
