@@ -1,0 +1,25 @@
+{
+  "name": "effectserver-client",
+  "description": "",
+  "author": "Juho Vepsalainen <bebraw@gmail.com>",
+  "version": "0.0.0",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bebraw/effectserver-client.git"
+  },
+  "homepage": "https://github.com/bebraw/effectserver-client",
+  "bugs": {
+    "url": "https://github.com/bebraw/effectserver-client/issues"
+  },
+  "keywords": [],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/bebraw/effectserver-client/blob/master/LICENSE"
+    }
+  ]
+}
