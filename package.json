@@ -3,10 +3,15 @@
   "description": "",
   "author": "Juho Vepsalainen <bebraw@gmail.com>",
   "version": "0.0.0",
+  "main": "./index.js",
   "dependencies": {
+    "animation": "~0.1.3",
+    "annomath": "~0.3.2",
+    "annofp": "~0.2.1",
+    "annoinject": "~0.2.0",
+    "annotate": "~0.9.0"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/bebraw/effectserver-client.git"
