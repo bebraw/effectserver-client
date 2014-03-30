@@ -1,6 +1,6 @@
 {
   "name": "effectserver-client",
-  "description": "",
+  "description": "Client for instanssi/effectserver",
   "author": "Juho Vepsalainen <bebraw@gmail.com>",
   "version": "0.1.0",
   "main": "./index.js",
